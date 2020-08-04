@@ -1,3 +1,7 @@
+![](Capture.PNG)
+![](Capture2.PNG)
+![](Capture3.PNG)
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
