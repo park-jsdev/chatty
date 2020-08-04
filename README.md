@@ -1,3 +1,9 @@
+# Chatty
+A Real-Time Chat App built with React and Firebase. It allows users to read from and write to a noSQL database. It offers OAuth authentication via email, Gmail, GitHub.
+
+The project is deployed onto Firebase hosting environment, and can be found here: https://chatty-d2cfc.firebaseapp.com/
+
+
 ![](Capture.PNG)
 ![](Capture2.PNG)
 ![](Capture3.PNG)
